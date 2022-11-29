@@ -9,3 +9,7 @@ https://www.mathworks.com/help/matlab/creating_guis/choose-components-for-your-a
 https://www.mathworks.com/help/matlab/graphics.html
 
 https://www.mathworks.com/matlabcentral/answers/178540-how-can-i-represent-the-matrix-as-image
+
+
+
+https://www.mathworks.com/help/matlab/ref/image.html
