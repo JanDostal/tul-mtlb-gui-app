@@ -1,0 +1,49 @@
+Typy lodí
+
+Id
+Název
+Barva=1x3 double (z 0 a 1)
+Rozmer= 3x5 (logical array)
+
+
+Lodě:
+
+Id
+SouradniceJednotlivychPolicek= nx2 array (double)
+VlastnikId
+IdTypuLode
+
+
+Hraci:
+
+nazev
+Id
+...
+
+
+
+
+Statistiky (navíc)
+
+
+Grafické zobrazení zaznamenavani zasahu a minuti
+
+
+
+App properties:
+
+databaze = 1x3 cell array
+HracovoPole = 5x5 uint32
+nepritelovoPole = 5x5 unit32
+NepritelovaPamet = nx2 array (unint32)
+grafické zobrazení hracova Pole=5x5 (double)
+graficke zobrazeni provedenych zasahu = 5x5 double
+
+
+
+
+
+
+
+
+
