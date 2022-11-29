@@ -7,8 +7,4 @@ https://www.mathworks.com/help/matlab/creating_guis/graphics-support-in-app-desi
 https://www.mathworks.com/help/matlab/creating_guis/choose-components-for-your-app-designer-app.html
 
 
-https://www.mathworks.com/matlabcentral/answers/178540-how-can-i-represent-the-matrix-as-image
-
-
-
 https://www.mathworks.com/help/matlab/ref/image.html
