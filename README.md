@@ -16,3 +16,7 @@ https://www.mathworks.com/help/matlab/ref/colormap.html
 
 
 https://cs.wikipedia.org/wiki/Lod%C4%9B
+
+
+
+http://lada.chytrackova.sweb.cz/hry/lode.htm
