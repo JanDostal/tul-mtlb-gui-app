@@ -25,6 +25,8 @@ Id
 
 Statistiky (navíc)
 
+Historie statusů hry: (navíc)
+
 
 Grafické zobrazení zaznamenavani zasahu a minuti
 
