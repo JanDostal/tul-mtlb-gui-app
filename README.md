@@ -1,4 +1,4 @@
-# tul-matlab-gui-aplikace
+# tul-mtlb-gui-aplikace
 
 https://www.mathworks.com/products/matlab/app-designer.html
 
