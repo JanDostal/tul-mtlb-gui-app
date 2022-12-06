@@ -1,4 +1,4 @@
-Typy lodí
+Typy lodí:
 
 Id
 Název
@@ -10,6 +10,7 @@ Lodě:
 
 Id
 SouradniceJednotlivychPolicek= nx2 array (double)
+Zivoty= nx1 (logical array)
 VlastnikId
 IdTypuLode
 
@@ -23,13 +24,9 @@ Id
 
 
 
-Statistiky (navíc)
+Statistiky (navíc) (v tabu)
 
-Historie statusů hry: (navíc)
-
-
-Grafické zobrazení zaznamenavani zasahu a minuti
-
+Historie statusů hry: (navíc) (v tabu)
 
 
 App properties:
@@ -37,9 +34,10 @@ App properties:
 databaze = 1x3 cell array
 HracovoPole = 5x5 uint32
 nepritelovoPole = 5x5 unit32
-NepritelovaPamet = nx2 array (unint32)
-grafické zobrazení hracova Pole=5x5 (double)
-graficke zobrazeni provedenych zasahu = 5x5 double
+NepritelovaPamet = nx2 array (unint32) (unikatni, nepritel zvoli pole, ktere jeste neni v pameti)
+grafické zobrazení hracova Pole=5x5 (double) (prekreslovani CData behem vyberu lodi)
+graficke zobrazeni provedenych zasahu a minuti = 5x5 double (prubezne prekreslovani CData behem hry)
+Defaultni barva grafickych zobrazeni poli = [0 0 1] (modra)
 
 
 
