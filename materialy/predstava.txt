@@ -1,0 +1,50 @@
+Databáze:
+
+tabulka Typy lodí:
+
+Id
+Název
+Barva=1x3 double (z 0 a 1, single)
+Rozmer= 3x5 (logical array)
+
+tabulka Lodě:
+
+Id
+SouradniceJednotlivychPolicek= nx2 array (double)
+Zivoty= nx1 (logical array)
+VlastnikId
+IdTypuLode
+
+tabulka Hraci:
+
+nazev
+Id
+... (pripadne dalsi atributy)
+
+
+Statistiky (navíc, pokud zbyde čas) (v tabu gui okna)
+
+Historie tahů hry: (navíc, pokud zbyde čas) (v tabu gui okna)
+
+
+App global properties:
+
+databaze = 1x3 cell array
+HracovoPole = 5x5 uint32 (sklada se z Id jednotlivych lodi, zbytek 0)
+nepritelovoPole = 5x5 unit32 (sklada se z Id jednotlivych lodi, zbytek 0)
+NepritelovaPamet = nx2 array (unint32) (unikatni, nepritel nahodne vybira souradnice, pokud nejsou v pameti, vlozi do pameti a provede tah na dane souradnice, pokud v pameti jiz jsou, nic s pameti neudela a vybira znovu nahodne souradnice tak dlouho, dokud nezvoli takove, ktere jeste v pameti nejsou)
+grafické zobrazení hracova Pole=5x5 (double) (obrazek vznikly z 3D matice barevnych slozek, modifikace CData property obrazku pri potrebe prekreslit dane pole obrazku na jinou barvu behem vyberu lodi)
+graficke zobrazeni provedenych zasahu a minuti = 5x5 double (obrazek na zacatku uplne modry, postupne pribudou jine barvy, prubezna modifikace CData property behem hry pri zasahu nepratelske lode)
+Defaultni barva grafickych zobrazeni poli = [0 0 1] (modra barva/more)
+
+Inspirace pravidla hry: https://cs.wikipedia.org/wiki/Lod%C4%9B
+			http://lada.chytrackova.sweb.cz/hry/lode.htm
+
+
+
+
+
+
+
+
+
