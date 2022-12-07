@@ -1,5 +1,6 @@
 # tul-mtlb-gui-aplikace
 
+[Tutoriál App Designeru](https://www.mathworks.com/help/matlab/creating_guis/create-a-simple-app-or-gui-using-app-designer.html)
 [GUI prostredi 1](https://www.mathworks.com/products/matlab/app-designer.html)
 
 [GUI prostredi 2](https://www.mathworks.com/help/matlab/creating_guis/graphics-support-in-app-designer.html)
