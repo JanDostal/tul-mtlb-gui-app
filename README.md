@@ -1,5 +1,5 @@
 # tul-mtlb-gui-aplikace
-[Pause vs GUI Timer](https://www.mathworks.com/matlabcentral/answers/83271-pause-n-vs-timer-which-is-better)
+[Timer](https://www.mathworks.com/help/matlab/matlab_prog/timer-callback-functions.html)
 
 [Tutoriál App Designeru](https://www.mathworks.com/help/matlab/creating_guis/create-a-simple-app-or-gui-using-app-designer.html)
 
