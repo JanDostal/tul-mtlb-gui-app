@@ -1,10 +1,6 @@
 # tul-mtlb-gui-aplikace
 [Timer](https://www.mathworks.com/help/matlab/matlab_prog/timer-callback-functions.html)
 
-[Tutoriál App Designeru](https://www.mathworks.com/help/matlab/creating_guis/create-a-simple-app-or-gui-using-app-designer.html)
-
-[GUI prostredi 1](https://www.mathworks.com/products/matlab/app-designer.html)
-
 [GUI prostredi 2](https://www.mathworks.com/help/matlab/creating_guis/graphics-support-in-app-designer.html)
 
 [GUI prostredi 3](https://www.mathworks.com/help/matlab/creating_guis/choose-components-for-your-app-designer-app.html)
@@ -18,6 +14,3 @@
 )
 
 [Pravidla hry 1](https://cs.wikipedia.org/wiki/Lod%C4%9B)
-
-[Pravidla hry 2](http://lada.chytrackova.sweb.cz/hry/lode.htm
-)
