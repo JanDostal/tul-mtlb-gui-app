@@ -22,8 +22,6 @@ Id
 ... (pripadne dalsi atributy)
 
 
-Statistiky (navíc, pokud zbyde čas) (v tabu gui okna)
-
 Historie tahů hry: (navíc, pokud zbyde čas) (v tabu gui okna)
 
 
