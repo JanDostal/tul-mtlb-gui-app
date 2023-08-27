@@ -1,6 +1,6 @@
 ## App description
 
-- This app has graphical user interface, similar to WPF or UWP
+- This desktop app has graphical user interface, similar to WPF or UWP
 - It was developed by MATLAB App Designer
 - App represents a classic game called Battle Ships, which is based on tactical thinking about how to place ships on game board and which coordinates for shooting are chosen
 
