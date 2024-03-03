@@ -11,5 +11,5 @@
 - **MATLAB** needs to be installed
 - **App Designer** also needs to be installed
     - It is selectable during **MATLAB installation**
-- Through **MATLAB IDE**, open file called [battleShipsGame.mlapp](/projekt/battleShipsGame.mlapp)
+- Through **MATLAB IDE**, open file called [battleShipsGame.mlapp](/project/battleShipsGame.mlapp)
 
