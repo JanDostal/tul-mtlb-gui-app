@@ -1,4 +1,4 @@
-## App description
+# App description
 
 - This desktop app has graphical user interface, similar to WPF or UWP
 - It was developed by MATLAB App Designer
@@ -6,7 +6,7 @@
     - Enemy is represented by computer/ai
     - App stores logs during game session, which represent all game moves made by computer and player
 
-## Instructions for starting app
+# Instructions for starting app
 
 - **MATLAB** needs to be installed
 - **App Designer** also needs to be installed
