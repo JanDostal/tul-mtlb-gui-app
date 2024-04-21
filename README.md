@@ -8,8 +8,15 @@
 
 # Instructions for starting app
 
+## Release/Production mode
+
+- Download a setup installer from the [latest app release](../../releases/latest) and run installer
+
+## Debug/Development mode
+
+1. Clone this repository
+2. Through **MATLAB IDE**, open file called [battleShipsGame.mlapp](/project/battleShipsGame.mlapp)
+
 - **MATLAB** needs to be installed
 - **App Designer** also needs to be installed
     - It is selectable during **MATLAB installation**
-- Through **MATLAB IDE**, open file called [battleShipsGame.mlapp](/project/battleShipsGame.mlapp)
-
